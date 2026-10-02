@@ -1,0 +1,2 @@
+# VHDL-Based-Elevator-Controller-on-the-Zybo-Z7-FPGA-Platform
+This VHDL-based finite state machine project implements a 3-floor elevator controller on the Zybo Z7 FPGA. It meets competition specs: 5s travel, 10s open doors, internal request priority, and state signaling. It also features an auto-return function, descending to the ground floor with open doors after 30s of inactivity to await new requests.
