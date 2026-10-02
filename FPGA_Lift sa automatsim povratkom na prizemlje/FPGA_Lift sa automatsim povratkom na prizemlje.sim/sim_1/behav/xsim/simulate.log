@@ -1,0 +1,87 @@
+Time resolution is 1 ps
+Note: ===== T1: Reset =====
+Time: 0 ps  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    lift na spratu 0
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vrata zatvorena (zelena)
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    nema aktivnih spoljasnjih poziva
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ===== T2: Spoljasnji poziv sa sprata 2 =====
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    LED poziva na spratu 2 svetli
+Time: 480 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    lift krenuo (plava)
+Time: 505 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ===== T1: Reset =====
+Time: 0 ps  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    lift na spratu 0
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vrata zatvorena (zelena)
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    nema aktivnih spoljasnjih poziva
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ===== T2: Spoljasnji poziv sa sprata 2 =====
+Time: 400 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    LED poziva na spratu 2 svetli
+Time: 480 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    lift krenuo (plava)
+Time: 505 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    sprat 0 -> 1 = 5.0 s (ocekivano 5.0 s)
+Time: 1005 ns  Iteration: 3  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    sprat 1 -> 2 = 5.0 s (ocekivano 5.0 s)
+Time: 1505 ns  Iteration: 3  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vrata otvorena na spratu 2 (crvena)
+Time: 1515 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    poziv obrisan nakon opsluzivanja
+Time: 1565 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vrata otvorena = 9.9 s (ocekivano 10.0 s)
+Time: 2505 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ===== T3: ZADATAK 5 - automatski povratak posle 30 s =====
+Time: 2505 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    lift jos miruje na spratu 2 posle 29 s neaktivnosti
+Time: 5605 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vreme neaktivnosti do povratka = 30.0 s (ocekivano 30.0 s)
+Time: 5705 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    povratak sprat 2 -> 0 = 10.0 s (ocekivano 10.0 s)
+Time: 6705 ns  Iteration: 3  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vrata otvorena u prizemlju nakon povratka
+Time: 6715 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vrata i dalje otvorena posle 20 s (cekaju novi zahtev)
+Time: 8715 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ===== T4: Unutrasnji zahtev za sprat 1 =====
+Time: 8715 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    novi zahtev zatvara vrata
+Time: 8815 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    zatvaranje vrata = 2.0 s (ocekivano 2.0 s)
+Time: 9005 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    vrata otvorena na spratu 1
+Time: 9515 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ===== T5: Prioritet unutrasnjih zahteva =====
+Time: 9515 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    LED spoljasnjeg poziva sa sprata 0 svetli
+Time: 9845 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    lift prvo opsluzuje unutrasnji zahtev (sprat 2)
+Time: 11205 ns  Iteration: 3  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    spoljasnji poziv sa sprata 0 i dalje aktivan
+Time: 11215 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    zatim opsluzen poziv sa sprata 0
+Time: 13415 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    poziv sa sprata 0 obrisan
+Time: 13465 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ===== T6: Reset tokom rada =====
+Time: 13465 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    reset brise sve zahteve
+Time: 15895 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    reset zatvara vrata
+Time: 15895 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    posle reseta lift krece ka spratu 0
+Time: 16005 ns  Iteration: 2  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note:   OK:    lift na spratu 0, vrata zatvorena
+Time: 17205 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ==========================================
+Time: 17205 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: SVI TESTOVI SU PROSLI
+Time: 17205 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd
+Note: ==========================================
+Time: 17205 ns  Iteration: 0  Process: /tb_main/stim  File: C:/Users/Vukasin/Documents/Takmicenje_FPGA/Takmicenje_FPGA.srcs/sim_1/new/tb_main.vhd

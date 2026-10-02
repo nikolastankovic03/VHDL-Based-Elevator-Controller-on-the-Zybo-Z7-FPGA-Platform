@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Oct  2 15:41:17 2026
+# Process ID         : 8336
+# Current directory  : C:/Users/NikolaStankovic/Desktop/LIFT_SA_AUTOMATSKIM_POVRATKOM/FPGA_Lift sa automatsim povratkom na prizemlje
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent21316 C:\Users\NikolaStankovic\Desktop\LIFT_SA_AUTOMATSKIM_POVRATKOM\FPGA_Lift sa automatsim povratkom na prizemlje\FPGA_Lift sa automatsim povratkom na prizemlje.xpr
+# Log file           : C:/Users/NikolaStankovic/Desktop/LIFT_SA_AUTOMATSKIM_POVRATKOM/FPGA_Lift sa automatsim povratkom na prizemlje/vivado.log
+# Journal file       : C:/Users/NikolaStankovic/Desktop/LIFT_SA_AUTOMATSKIM_POVRATKOM/FPGA_Lift sa automatsim povratkom na prizemlje\vivado.jou
+# Running On         : DESKTOP-K69UDHH
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 3 5425U with Radeon Graphics         
+# CPU Frequency      : 2695 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 7851 MB
+# Swap memory        : 10294 MB
+# Total Virtual      : 18146 MB
+# Available Virtual  : 6816 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/NikolaStankovic/Desktop/LIFT_SA_AUTOMATSKIM_POVRATKOM/FPGA_Lift sa automatsim povratkom na prizemlje/FPGA_Lift sa automatsim povratkom na prizemlje.xpr}
+update_compile_order -fileset sources_1
